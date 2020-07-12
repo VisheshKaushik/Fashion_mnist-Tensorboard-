@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kvishesh/Desktop/fashion mnist/log1/model.ckpt"
+all_model_checkpoint_paths: "/home/kvishesh/Desktop/fashion mnist/log1/model.ckpt"
